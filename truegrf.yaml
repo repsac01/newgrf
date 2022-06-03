@@ -2,4 +2,5 @@ description: Your first NewGRF based on FIRS4 Steeltown
 grfid: TRU1
 license: GPL-2.0
 name: TrueGRF
+url: https://github.com/repsac01/newgrf
 version: 4
